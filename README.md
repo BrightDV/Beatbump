@@ -106,3 +106,4 @@ You can find (temporary, incomplete, and in-progress) API documentation here: ht
 ## Project Inspirations
 
 - [Invidious](https://github.com/iv-org/invidious) - a privacy focused alternative YouTube front end.
+
